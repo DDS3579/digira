@@ -308,7 +308,7 @@ section p {
 .services-desc {
   font-size: 16px;
   color: var(--white);
-  text-align: left;
+  text-align: center;
   margin-bottom: 40px;
   line-height: 1.5;
 }
@@ -1035,7 +1035,7 @@ section p {
     margin-bottom: 16px;
     margin-left: 8px;
     margin-right: 8px;
-    text-align: center;
+    text-align: left;
   }
   .contact-form input,
   .contact-form textarea {
